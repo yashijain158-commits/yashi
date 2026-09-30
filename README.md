@@ -1,0 +1,2 @@
+# yashi
+first git repopsitory
